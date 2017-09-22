@@ -9,7 +9,6 @@ class Checkout
     @pricing_rule = pricing_rule
   end
 
-  # ideal case
   # ideal case, if the product_code doesnt exist in products just add
   # not good,
   # I think you should add a product_code to the basket only if it exist
